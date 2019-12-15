@@ -1,12 +1,17 @@
 # Generation of Cars Using DCGAN
 
-* [DCGAN to generate Cars](./DCGAN_v2.ipynb)
+* [DCGAN to generate Cars](./DCGAN_v3.ipynb)
 
 * Results
 
-  * ![gen_plot_10360](./gen_images/run3/gen_plot_10360.png)
+  * Iteration 200
+  * ![gen_plot_e200](./gen_images_v3/gen_plot_e200.png)
+  * Iteration 400
+  * ![gen_plot_e400](./gen_images_v3/gen_plot_e400.png)
+  * Iteration 600
+  * ![gen_plot_e600](./gen_images_v3/gen_plot_e600.png)
 
-  * ![gen_plot_7400](./gen_images/run3/gen_plot_7400.png)
+  
 
 
 
